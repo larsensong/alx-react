@@ -1,2 +1,2 @@
-s is the image repository
+This is the image repository
 
