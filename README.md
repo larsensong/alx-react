@@ -1,2 +1,2 @@
 		alx-react
-Welcome to alx React where i will cover the in-depth functionalities using react.
+Welcome to ALX React where i will cover the in-depth functionalities using react.
