@@ -28,3 +28,5 @@ Check that you can see the two elements on the browser, and using the React brow
 Requirements:
 
 When running, there should not be any lint error in the console
+
+  3. Modify the App
