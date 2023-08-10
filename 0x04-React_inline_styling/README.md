@@ -14,6 +14,6 @@ Tips:
 
 For better performances, never create and pass an object to an element directly. Use a constant instead
 Use the isHeader prop to easily pick the style you want to apply to the tr tag
-Requirement:
+Requirement::
 
 Even if the modification is small, make sure that your test suites are still passing. Especially the file CourseListRow.test.js
