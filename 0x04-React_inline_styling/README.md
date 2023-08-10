@@ -7,6 +7,7 @@ Modify the CourseListRow component in task_0/dashboard/src/CourseList/CourseList
 
 Using inline styling, change the background color of a row to #f5f5f5ab
 Using inline styling, change the background color of a header row to #deb5b545
+
 If needed, modify the test file so every test pass
 Tips:
 
