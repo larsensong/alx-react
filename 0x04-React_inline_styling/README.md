@@ -9,6 +9,7 @@ Using inline styling, change the background color of a row to #f5f5f5ab
 Using inline styling, change the background color of a header row to #deb5b545
 
 If needed, modify the test file so every test pass
+
 Tips:
 
 For better performances, never create and pass an object to an element directly. Use a constant instead
