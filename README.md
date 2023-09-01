@@ -18,3 +18,12 @@ React finds out what changes have been made, and changes only what needs to be c
 To use React in production, you need npm which is included with Node.js.
 To get an overview of what React is, you can write React code directly in HTML.
 But in order to use React in production, you need npm and Node.js installed.
+
+
+	Setting up a React Environment
+If you have npx and Node.js installed, you can create a React application by using create-react-app.f you've previously installed create-react-app globally, it is recommended that you uninstall the package to ensure npx always uses the latest version of create-react-app.
+To uninstall, run this command: npm uninstall -g create-react-app.
+Run this command to create a React application named my-react-app:
+	npx create-react-app my-react-app
+The create-react-app will set up everything you need to run a React application.
+
