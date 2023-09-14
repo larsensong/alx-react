@@ -10,7 +10,7 @@ Instead of manipulating the browser's DOM directly, React creates a virtual DOM 
 
   2.React only changes what needs to be changed!
 
-React finds out what changes have been made, and changes only what needs to be changed.
+React finds out what changes have been made, and changes only what needs to be changed..
 
 
 
