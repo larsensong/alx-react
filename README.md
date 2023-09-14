@@ -4,7 +4,7 @@ Welcome to ALX React where i will cover the in-depth functionalities using react
 
 
 	How does React Work?
-  1.React creates a VIRTUAL DOM in memory.
+  1.React creates a VIRTUAL DOM in memory..
 
 Instead of manipulating the browser's DOM directly, React creates a virtual DOM in memory, where it does all the necessary manipulating, before making the changes in the browser DOM.
 
