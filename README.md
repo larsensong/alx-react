@@ -25,5 +25,5 @@ If you have npx and Node.js installed, you can create a React application by usi
 To uninstall, run this command: npm uninstall -g create-react-app.
 Run this command to create a React application named my-react-app:
 	npx create-react-app my-react-app
-The create-react-app will set up everything you need to run a React application.
+The create-react-app will set up everything you need to run a React application..
 
