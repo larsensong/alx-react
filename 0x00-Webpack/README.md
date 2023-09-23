@@ -1,2 +1,2 @@
   	0x00-Webpack
-The web pack repo
+The web pack repository 
